@@ -2,8 +2,8 @@
 ### <br>Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 ### My name is João Castro and I'm a developer from Portugal.
 ### Languages I speak:
--Portuguese <br>
--English
+-Portuguese <img src="https://media.giphy.com/media/KziKDWNLfdW0oju1zu/giphy.gif" width="40"><br>
+-English <img src="https://media.giphy.com/media/WQez7qiCFw0ga6kOts/giphy.gif" width="30">
 
 
 ### My GitHub Stats:
