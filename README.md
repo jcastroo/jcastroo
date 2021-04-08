@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### My name is João Castro and I'm a developer from Portugal.
-
-###
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastroo&theme=monokai&show_icons=true)
 <br />
 
