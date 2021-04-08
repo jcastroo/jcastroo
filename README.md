@@ -6,6 +6,12 @@
 Portuguese <br>
 English <br>
 
+### Areas I'm interested in:
+Cyber Security <br>
+Web-Devolopent <br>
+Computer Science <br>
+
+
 
 ### My GitHub Stats:
 
