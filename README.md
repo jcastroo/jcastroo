@@ -11,8 +11,8 @@ Cyber Security <br>
 Web-Devolopent <br>
 Computer Science <br>
 
-
-
+### LinkedIn
+https://www.linkedin.com/in/jcastroo/
 ### My GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastroo&theme=radical&show_icons=true)
