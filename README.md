@@ -3,9 +3,8 @@
 ### My name is João Castro and I'm a developer from Portugal.
 ### Languages I speak:
 Portuguese <br>
-<img src="https://media.giphy.com/media/icOkdFXKogjoHZZkSf/giphy.gif" width="40"><br>
 English <br>
-<img src="https://media.giphy.com/media/WQez7qiCFw0ga6kOts/giphy.gif" width="30">
+
 
 ### My GitHub Stats:
 
