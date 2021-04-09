@@ -11,10 +11,9 @@ Cyber Security <br>
 Web-Devolopent <br>
 Computer Science <br>
 
-### Contacts 📝
+### LinkedIn 📝
 https://www.linkedin.com/in/jcastroo/<br>
-https://twitter.com/truecastroo<br>
-https://www.instagram.com/realkst/<br>
+
 
 
 ### My GitHub Stats:
@@ -26,3 +25,4 @@ https://www.instagram.com/realkst/<br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&redirect=true)
 <br />
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jcastroo&repo=jcastroo&countColorcountColor&countColor=%237B1E7B"/>
