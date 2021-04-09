@@ -18,7 +18,6 @@ https://www.linkedin.com/in/jcastroo/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastroo&theme=radical&show_icons=true)
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11128329314?si=DaTbWMtBQs6Tqh4MtuwMnw)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11128329314&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11128329314&cover_image=true&theme=novatorem)]]
 <br />
 
