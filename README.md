@@ -11,14 +11,18 @@ Cyber Security <br>
 Web-Devolopent <br>
 Computer Science <br>
 
-### LinkedIn
-https://www.linkedin.com/in/jcastroo/
+### Contacts 📝
+https://www.linkedin.com/in/jcastroo/<br>
+https://twitter.com/truecastroo<br>
+https://www.instagram.com/realkst/<br>
+
+
 ### My GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastroo&theme=radical&show_icons=true)
 
 ### Listening now on Spotify 🎧
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/><br>
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&redirect=true)
 <br />
 
