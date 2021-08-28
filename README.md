@@ -8,7 +8,7 @@ English <br>
 
 ### Areas I'm interested in:
 Cyber Security <br>
-Web-Devolopent <br>
+Web Development <br>
 Computer Science <br>
 
 ### LinkedIn 📝
@@ -20,9 +20,6 @@ https://www.linkedin.com/in/jcastroo/<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcastroo&theme=radical&show_icons=true)
 
-### Listening now on Spotify 🎧
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/><br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=11128329314&redirect=true)
 <br />
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jcastroo&repo=jcastroo&countColorcountColor&countColor=%237B1E7B"/>
