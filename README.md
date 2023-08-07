@@ -14,5 +14,5 @@ Computer Science <br>
 
 ### LinkedIn 📝
 https://www.linkedin.com/in/jcastroo/<br>
-
+ <br>
 ![Alt text](https://github.com/jcastroo/jcastroo/blob/main/banner.png)
