@@ -15,5 +15,6 @@ Computer Science <br>
 ### LinkedIn 📝
 https://www.linkedin.com/in/jcastroo/<br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=jcastroo&theme=react-dark&hide_border=true&area=true)
-
+<div id="header" align="center">
+  <img src="https://www.canva.com/design/DAFq5rr9jkw/BMKOqjHiXVzRP25_9GKOsQ/edit?utm_content=DAFq5rr9jkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100"/>
+</div>
