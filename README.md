@@ -1,15 +1,17 @@
-<h2 align="left">Hello there! I'm João Castro, and my passion lies in software development. Currently pursuing my degree in Computer Engineering, I've amassed over 7 years of hands-on programming experience. My journey in technology has been a dynamic quest for knowledge and skill refinement across diverse technologies.</h2>
+<h2 align="left">Greetings! I'm João Castro, deeply immersed in the world of software development. From the humble beginnings of 'Hello World' to crafting intricate solutions, I speak the language of code with fluency. Currently advancing through my studies in Computer Engineering, I bring over 7 years of hands-on programming experience. My journey in technology has been a dynamic quest for knowledge and skill refinement across diverse technologies and domains.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jcastroo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcastroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=jcastroo&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcastroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/8o1lsr.gif"  />
+<br clear="both">
+
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWYzejk4azg1bmQwZmhhYjI2amV3dDA0bWx6OHJmM2t4b3lqN3FmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -17,8 +19,6 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -40,19 +40,25 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/jpqcastro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jcastroo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jcastroo/jcastroo/output/snake.svg" alt="Snake animation" />
 
 ###
 
