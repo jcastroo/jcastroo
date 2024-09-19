@@ -1,4 +1,4 @@
-<h2 align="left">Greetings! I'm João Castro, deeply immersed in the world of software development. From the humble beginnings of 'Hello World' to crafting intricate solutions, I speak the language of code with fluency. Currently advancing through my studies in Computer Engineering, I bring over 7 years of hands-on programming experience. My journey in technology has been a dynamic quest for knowledge and skill refinement across diverse technologies and domains.</h2>
+<h2 align="left">Greetings! I'm João Castro, deeply immersed in the world of software development. From the humble beginnings of 'Hello World' to crafting intricate solutions, I speak the language of code with fluency. With a B.Sc. in Computer Engineering and over 7 years of hands-on programming experience, my journey in technology has been a dynamic quest for knowledge and skill refinement across diverse technologies and domains. Currently, I am furthering my expertise as a web developer.</h2>
 
 ###
 
