@@ -57,7 +57,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/jcastroo/jcastroo/blob/main/banner.png"  />
+  <img height="200" src="https://github.com/jcastroo/jcastroo/blob/main/newbanner.png"  />
 </div>
 
 ###
