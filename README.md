@@ -48,9 +48,7 @@ Bachelor's degree in Computer Engineering with a strong focus on Cybersecurity, 
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/joaopdrcastro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
+
   <a href="https://www.linkedin.com/in/jcastroo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
