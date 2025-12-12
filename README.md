@@ -3,14 +3,6 @@ Bachelor's degree in Computer Engineering with a strong focus on Cybersecurity, 
 </h2>
 
 
-###
-
-<div align="center">
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jcastroo&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
   <img width="12" />
