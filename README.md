@@ -1,8 +1,7 @@
 <h2 align="left">
 Bachelor's degree in Computer Engineering with a strong focus on Cybersecurity, Artificial Intelligence, and Web 3. Experienced in software development and collaborating on innovative projects, with a focus on advanced and secure technological solutions. Currently pursuing a Master’s degree in Artificial Intelligence Engineering.
 </h2>
-
-
+<br>
 <div align="center">
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
   <img width="12" />
