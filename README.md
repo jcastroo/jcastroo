@@ -45,11 +45,3 @@ Bachelor's degree in Computer Engineering with a strong focus on Cybersecurity, 
   </a>
 </div>
 
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/jcastroo/jcastroo/blob/415202e91d9f16405ea8175f2d0e7019861d0954/newbanner.png"  />
-</div>
-
-###
