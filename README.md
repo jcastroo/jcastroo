@@ -1,3 +1,5 @@
+<img width="3168" height="792" alt="Black Modern Graphic Designer LinkedIn Banner(4)(1)" src="https://github.com/user-attachments/assets/c285dc78-e4ca-4faa-93f1-25beb03fe752" />
+<img width="3168" height="792" alt="Black Modern Graphic Designer LinkedIn Banner(4)(1)" src="https://github.com/user-attachments/assets/a0714740-04cb-4bfc-a132-bc0bcee712c4" />
 <h2 align="left">
 Bachelor's degree in Computer Engineering with a strong focus on Cybersecurity, Artificial Intelligence, and Web 3. Experienced in software development and collaborating on innovative projects, with a focus on advanced and secure technological solutions. Currently pursuing a Master’s degree in Artificial Intelligence Engineering.
 </h2>
